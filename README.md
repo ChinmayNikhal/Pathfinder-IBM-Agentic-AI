@@ -46,9 +46,11 @@ Traditional counseling methods lack **personalization, scalability, and adaptabi
 ---
 
 ## 📂 Repository Structure  
-├── agent_deployment.ipynb # Main Notebook (deployment + demo)
-├── README.md # Project documentation
-└── requirements.txt # Dependencies (if needed)
+```bash
+├── Interview_agent_deployment.ipynb   # Main Notebook (deployment + demo)
+├── README.md                          # Project documentation
+└── requirements.txt                   # Dependencies (if needed)
+```
 
 ---
 
@@ -76,15 +78,15 @@ jupyter notebook agent_deployment.ipynb
 
 🔮 Future Scope
 
--Integration with student academic portals for real-time data.
--Support for multiple languages using IBM Watson Language Translator.
--Mobile app deployment for wider accessibility.
--Gamified career exploration for higher student engagement.
--AI-powered progress tracking dashboards.
+- Integration with student academic portals for real-time data.
+- Support for multiple languages using IBM Watson Language Translator.
+- Mobile app deployment for wider accessibility.
+- Gamified career exploration for higher student engagement.
+- AI-powered progress tracking dashboards.
 
 🏅 IBM Certifications
 
--[Getting Started with AI – IBM Credly Badge](#) *(https://www.credly.com/badges/4a978288-69a7-4d66-962d-b645ee185cc9/public_url)
+- [Getting Started with AI – IBM Credly Badge](#) *(https://www.credly.com/badges/4a978288-69a7-4d66-962d-b645ee185cc9/public_url)
 
 ---
 
