@@ -54,7 +54,40 @@ Traditional counseling methods lack **personalization, scalability, and adaptabi
 
 ## 🛠️ How to Run  
 
-Clone the repository:  
+1) Clone the repository:  
 ```bash
 git clone https://github.com/your-username/pathfinder-agent.git
 cd pathfinder-agent
+```
+
+2) Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3) Open the Jupyter Notebook:
+```bash
+jupyter notebook agent_deployment.ipynb
+```
+
+4) Run all cells to start the Pathfinder Career Counseling Agent.
+
+---
+
+🔮 Future Scope
+
+-Integration with student academic portals for real-time data.
+-Support for multiple languages using IBM Watson Language Translator.
+-Mobile app deployment for wider accessibility.
+-Gamified career exploration for higher student engagement.
+-AI-powered progress tracking dashboards.
+
+🏅 IBM Certifications
+
+-[Getting Started with AI – IBM Credly Badge](#) *(https://www.credly.com/badges/4a978288-69a7-4d66-962d-b645ee185cc9/public_url)
+
+---
+
+🤝 Contributors
+
+Chinmay Nikhal (DES Pune University, School of Science and Mathematics)
