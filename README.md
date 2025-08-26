@@ -86,7 +86,7 @@ jupyter notebook agent_deployment.ipynb
 
 🏅 IBM Certifications
 
-- [Getting Started with AI – IBM Credly Badge](#) *(https://www.credly.com/badges/4a978288-69a7-4d66-962d-b645ee185cc9/public_url)
+- [Getting Started with AI – IBM Credly Badge](#) *(https://www.credly.com/badges/4a978288-69a7-4d66-962d-b645ee185cc9/public_url)*
 
 ---
 
